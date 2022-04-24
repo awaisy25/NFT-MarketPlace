@@ -1,3 +1,3 @@
 //variables to store our contract addresses
-export const nftaddress = "0x04a0F867858b9921e0361994297EfC3318233748"
-export const nftmarketaddress = "0x09d33652CAA28E5286FBd3FB6f43297B127904ed"
+export const nftaddress = "0xBed73F8B68A0C3aC9fC09ed875d6b957bAc153c6"
+export const nftmarketaddress = "0x5BA0a9C63C9560f10B7C499F3FB728545F51CC23"
