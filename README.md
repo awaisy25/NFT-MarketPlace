@@ -41,7 +41,7 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ### Deploying Contracts to mumbai test network
 
-We already have the contracts deployed in polygon mumbai network. They are configured in config.js. If you have made changes to the contracts follow these steps to deploy then. You will need matic for deploying. Csn request some matic for the mumbai network [here](https://faucet.polygon.technology/)
+We already have the contracts deployed in polygon mumbai network. They are configured in config.js. If you have made changes to the contracts follow these steps to deploy then. You will need matic for deploying. Can request some matic for the mumbai network [here](https://faucet.polygon.technology/)
 
 
 ### Running client app
