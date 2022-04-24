@@ -1,6 +1,6 @@
 # NFT Market Place
 
-This project is a sample NFT MarketPlace Web 3.0 app. Built with Solidity, Next JS, & Tailwind. Contracts deployed on the Polygon Network with RPC endpoints provided from [Infura] (https://infura.io/)
+This project is a sample NFT MarketPlace Web 3.0 app. Built with Solidity, Next JS, & Tailwind. Contracts deployed on the Polygon Network with RPC endpoints provided from [Infura](https://infura.io/)
 
 ## Project Setup
 
