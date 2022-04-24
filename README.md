@@ -11,7 +11,7 @@ npm install
 ```
 ### Configuring the Contracts
 
-This projects will need to be configured for the Polygon network. This project used [Infura] (https://infura.io/), but you can another RPC endpoint as long as you configure it. The following variables will need to be placed in an .env or .secret file. Then configured in **hardhat.config.js**
+This projects will need to be configured for the Polygon network. This project used [Infura](https://infura.io/), but you can another RPC endpoint as long as you configure it. The following variables will need to be placed in an .env or .secret file. Then configured in **hardhat.config.js**
 ```
 projectId="projectId passed into the infura url in hardhat.config.js"
 privateKey="Private key from your meta mask wallet"
@@ -41,7 +41,7 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ### Deploying Contracts to mumbai test network
 
-We already have the contracts deployed in polygon mumbai network. They are configured in config.js. If you have made changes to the contracts follow these steps to deploy then. You will need matic for deploying. Csn request some matic for the mumbai network [here] (https://faucet.polygon.technology/)
+We already have the contracts deployed in polygon mumbai network. They are configured in config.js. If you have made changes to the contracts follow these steps to deploy then. You will need matic for deploying. Csn request some matic for the mumbai network [here](https://faucet.polygon.technology/)
 
 
 ### Running client app
